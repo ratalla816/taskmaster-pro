@@ -34,7 +34,7 @@
   Add, sort, and remove tasks
 
   ## Screenshot
-  ![Screenshot](./images/screenshot.jpg)
+  ![Screenshot](images/screenshot.png)
 
   ## Features
   drag and drop, calendar, persistant storage
